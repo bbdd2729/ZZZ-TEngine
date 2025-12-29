@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: df01f8417c3e46544909eecbaf19ac64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7429757835730640828
+    second: Unagi_Weapon_M_0
+  - first:
+      213: 8863155547292320257
+    second: Unagi_Weapon_M_1
+  - first:
+      213: -7397985512114237660
+    second: Unagi_Weapon_M_2
+  - first:
+      213: 3914088395798468565
+    second: Unagi_Weapon_M_3
+  - first:
+      213: -7769040774112711708
+    second: Unagi_Weapon_M_4
+  - first:
+      213: -484525614889039110
+    second: Unagi_Weapon_M_5
+  - first:
+      213: -3415698739970216774
+    second: Unagi_Weapon_M_6
+  - first:
+      213: 4574898666231041439
+    second: Unagi_Weapon_M_7
+  - first:
+      213: 1592205958584756805
+    second: Unagi_Weapon_M_8
+  - first:
+      213: 8201452398063693562
+    second: Unagi_Weapon_M_9
+  - first:
+      213: 5363336197607061986
+    second: Unagi_Weapon_M_10
+  - first:
+      213: -4937965727933831364
+    second: Unagi_Weapon_M_11
+  - first:
+      213: 4668126689382568319
+    second: Unagi_Weapon_M_12
+  - first:
+      213: 523053165339405632
+    second: Unagi_Weapon_M_13
+  - first:
+      213: 2930727816243457049
+    second: Unagi_Weapon_M_14
+  - first:
+      213: 4004805594656152659
+    second: Unagi_Weapon_M_15
+  - first:
+      213: -2556026236157738512
+    second: Unagi_Weapon_M_16
+  - first:
+      213: 1761584175039111305
+    second: Unagi_Weapon_M_17
+  - first:
+      213: 892807808061400577
+    second: Unagi_Weapon_M_18
+  - first:
+      213: 1878258348815489957
+    second: Unagi_Weapon_M_19
+  - first:
+      213: 2520670438281624382
+    second: Unagi_Weapon_M_20
+  - first:
+      213: -4066978148217401997
+    second: Unagi_Weapon_M_21
+  - first:
+      213: 736649503055071153
+    second: Unagi_Weapon_M_22
+  - first:
+      213: -706141543346223821
+    second: Unagi_Weapon_M_23
+  - first:
+      213: 4098028845813401643
+    second: Unagi_Weapon_M_24
+  - first:
+      213: 1423596958025558933
+    second: Unagi_Weapon_M_25
+  - first:
+      213: 8499435288781946303
+    second: Unagi_Weapon_M_26
+  - first:
+      213: -9166506927981435396
+    second: Unagi_Weapon_M_27
+  - first:
+      213: -2855247442394369655
+    second: Unagi_Weapon_M_28
+  - first:
+      213: 4956434332747807861
+    second: Unagi_Weapon_M_29
+  - first:
+      213: -619469638696441469
+    second: Unagi_Weapon_M_30
+  - first:
+      213: -3038127315350436661
+    second: Unagi_Weapon_M_31
+  - first:
+      213: 7674847908195981337
+    second: Unagi_Weapon_M_32
+  - first:
+      213: 1853553240363270437
+    second: Unagi_Weapon_M_33
+  - first:
+      213: -4198977946266255787
+    second: Unagi_Weapon_M_34
+  - first:
+      213: -1359785113087694127
+    second: Unagi_Weapon_M_35
+  - first:
+      213: 6286210576767393093
+    second: Unagi_Weapon_M_36
+  - first:
+      213: 233482120455390714
+    second: Unagi_Weapon_M_37
+  - first:
+      213: -1478948433985352439
+    second: Unagi_Weapon_M_38
+  - first:
+      213: 2981649409519967317
+    second: Unagi_Weapon_M_39
+  - first:
+      213: -1643411460371823857
+    second: Unagi_Weapon_M_40
+  - first:
+      213: 7368133907941803924
+    second: Unagi_Weapon_M_41
+  - first:
+      213: 1840673528273653620
+    second: Unagi_Weapon_M_42
+  - first:
+      213: -4001291640741984906
+    second: Unagi_Weapon_M_43
+  - first:
+      213: -7094331409091970675
+    second: Unagi_Weapon_M_44
+  - first:
+      213: -8470522154897041235
+    second: Unagi_Weapon_M_45
+  - first:
+      213: 4444185895086406467
+    second: Unagi_Weapon_M_46
+  - first:
+      213: 5851615016564542952
+    second: Unagi_Weapon_M_47
+  - first:
+      213: 5765964227049250410
+    second: Unagi_Weapon_M_48
+  - first:
+      213: 1903395364067911590
+    second: Unagi_Weapon_M_49
+  - first:
+      213: 2064232788772952564
+    second: Unagi_Weapon_M_50
+  - first:
+      213: 3790869275514308483
+    second: Unagi_Weapon_M_51
+  - first:
+      213: 2195591022339911649
+    second: Unagi_Weapon_M_52
+  - first:
+      213: 7569160930478087184
+    second: Unagi_Weapon_M_53
+  - first:
+      213: 8395517601299752721
+    second: Unagi_Weapon_M_54
+  - first:
+      213: -7690193061037011904
+    second: Unagi_Weapon_M_55
+  - first:
+      213: 7239123814527820834
+    second: Unagi_Weapon_M_56
+  - first:
+      213: -5821411835539209955
+    second: Unagi_Weapon_M_57
+  - first:
+      213: -2689551298044834396
+    second: Unagi_Weapon_M_58
+  - first:
+      213: -6707944602108173206
+    second: Unagi_Weapon_M_59
+  - first:
+      213: 8020735603077843078
+    second: Unagi_Weapon_M_60
+  - first:
+      213: -7563166836844650279
+    second: Unagi_Weapon_M_61
+  - first:
+      213: -1773242769889824978
+    second: Unagi_Weapon_M_62
+  - first:
+      213: -1212247530773882930
+    second: Unagi_Weapon_M_63
+  - first:
+      213: 7051952492003878312
+    second: Unagi_Weapon_M_64
+  - first:
+      213: -8313982017562712381
+    second: Unagi_Weapon_M_65
+  - first:
+      213: -4005150447144861618
+    second: Unagi_Weapon_M_66
+  - first:
+      213: 3042178649497030164
+    second: Unagi_Weapon_M_67
+  - first:
+      213: 5166714811702660956
+    second: Unagi_Weapon_M_68
+  - first:
+      213: -8659421549599457281
+    second: Unagi_Weapon_M_69
+  - first:
+      213: 5282033825075197763
+    second: Unagi_Weapon_M_70
+  - first:
+      213: 4504138326578646306
+    second: Unagi_Weapon_M_71
+  - first:
+      213: -3143590080017047537
+    second: Unagi_Weapon_M_72
+  - first:
+      213: -581922133260008949
+    second: Unagi_Weapon_M_73
+  - first:
+      213: -3079230354417614796
+    second: Unagi_Weapon_M_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_0
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 167
+        width: 453
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440a91aec9234e890800000000000000
+      internalID: -7429757835730640828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_1
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1819
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1024461e201400b70800000000000000
+      internalID: 8863155547292320257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_2
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1789
+        width: 150
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fc1f87f53155990800000000000000
+      internalID: -7397985512114237660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_3
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1243
+        width: 899
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7db0388a2a15630800000000000000
+      internalID: 3914088395798468565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_4
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1807
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb6c7df392de2490800000000000000
+      internalID: -7769040774112711708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_5
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1803
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa06f7358e9649f0800000000000000
+      internalID: -484525614889039110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_6
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1802
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc6358d7100990d0800000000000000
+      internalID: -3415698739970216774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_7
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1735
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d0c1c191e4d7f30800000000000000
+      internalID: 4574898666231041439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_8
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1759
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a64ba22e6a81610800000000000000
+      internalID: 1592205958584756805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_9
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1755
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeacdcb08961d170800000000000000
+      internalID: 8201452398063693562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_10
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1751
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9fc550bd56e6a40800000000000000
+      internalID: 5363336197607061986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_11
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1719
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3763793552d87bb0800000000000000
+      internalID: -4937965727933831364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_12
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1691
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f711b2fbd7488c040800000000000000
+      internalID: 4668126689382568319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_13
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1679
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04de2b62512424700800000000000000
+      internalID: 523053165339405632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_14
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1679
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c2c84db690ca820800000000000000
+      internalID: 2930727816243457049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_15
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1667
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c1aff487de39730800000000000000
+      internalID: 4004805594656152659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_16
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1635
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f14d3d3eab278cd0800000000000000
+      internalID: -2556026236157738512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_17
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1607
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980e7235977627810800000000000000
+      internalID: 1761584175039111305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1599
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106e13c98f3e36c00800000000000000
+      internalID: 892807808061400577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_19
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1583
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab1f8d440ae01a10800000000000000
+      internalID: 1878258348815489957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_20
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1581
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bba9598683bf220800000000000000
+      internalID: 2520670438281624382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_21
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1571
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dc9360ce03f87c0800000000000000
+      internalID: -4066978148217401997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_22
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1580
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7c091f1da193a00800000000000000
+      internalID: 736649503055071153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_23
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1586
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335c3b3f1084336f0800000000000000
+      internalID: -706141543346223821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_24
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1559
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b280302e58f1fd830800000000000000
+      internalID: 4098028845813401643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_25
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1562
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ba07a04e1a1c310800000000000000
+      internalID: 1423596958025558933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_26
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd744bfc5f04f570800000000000000
+      internalID: 8499435288781946303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_27
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1571
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf56286e3860ac080800000000000000
+      internalID: -9166506927981435396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_28
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1573
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981bd32349f1068d0800000000000000
+      internalID: -2855247442394369655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_29
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1561
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cbbfbe3cac8c440800000000000000
+      internalID: 4956434332747807861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_30
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1561
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389eb5c45a33767f0800000000000000
+      internalID: -619469638696441469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_31
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1551
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4402aad4766d5d0800000000000000
+      internalID: -3038127315350436661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_32
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1447
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918db296289828a60800000000000000
+      internalID: 7674847908195981337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_33
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1010
+        width: 46
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52180200ad429b910800000000000000
+      internalID: 1853553240363270437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_34
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1411
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eb9151ecb3ab5c0800000000000000
+      internalID: -4198977946266255787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_35
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da2b83e4a2112de0800000000000000
+      internalID: -1359785113087694127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_36
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1229
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d168bb63b1d3750800000000000000
+      internalID: 6286210576767393093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_37
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1284
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5062360ce7d3300800000000000000
+      internalID: 233482120455390714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_38
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dce2f2c38b97be0800000000000000
+      internalID: -1478948433985352439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_39
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1123
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cd03b2752f06920800000000000000
+      internalID: 2981649409519967317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_40
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1156
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f034bb4ebfd6139e0800000000000000
+      internalID: -1643411460371823857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_41
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1051
+        width: 133
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497c16050ced04660800000000000000
+      internalID: 7368133907941803924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_42
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1144
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f473852d26b8910800000000000000
+      internalID: 1840673528273653620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_43
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1039
+        width: 33
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67585d6d37e8878c0800000000000000
+      internalID: -4001291640741984906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_44
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1095
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d893d2abb2fdb8d90800000000000000
+      internalID: -7094331409091970675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_45
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1071
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da819479af8a27a80800000000000000
+      internalID: -8470522154897041235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_46
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1058
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b3d68768becad30800000000000000
+      internalID: 4444185895086406467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_47
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1035
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edcba8badc153150800000000000000
+      internalID: 5851615016564542952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_48
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1036
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e51e44ae1d40050800000000000000
+      internalID: 5765964227049250410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_49
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1050
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7a46ebff73a6a10800000000000000
+      internalID: 1903395364067911590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_50
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1071
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9968cd8c0a5ac10800000000000000
+      internalID: 2064232788772952564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_51
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1079
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38709fc658fdb9430800000000000000
+      internalID: 3790869275514308483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_52
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1083
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef6b9ee66e487e10800000000000000
+      internalID: 2195591022339911649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_53
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1087
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c59ec53cf0b0960800000000000000
+      internalID: 7569160930478087184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_54
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1091
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117e20be6ced28470800000000000000
+      internalID: 8395517601299752721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_55
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1035
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c07b6c722f64590800000000000000
+      internalID: -7690193061037011904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_56
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1030
+        width: 117
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224600a31c8867460800000000000000
+      internalID: 7239123814527820834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_57
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 994
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d114e6b57c0363fa0800000000000000
+      internalID: -5821411835539209955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_58
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 983
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adc8d2285bccaad0800000000000000
+      internalID: -2689551298044834396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_59
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 947
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64e752bce798e2a0800000000000000
+      internalID: -6707944602108173206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_60
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 960
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68888ca09806f4f60800000000000000
+      internalID: 8020735603077843078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_61
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 919
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d02cd055db3a0790800000000000000
+      internalID: -7563166836844650279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_62
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 939
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fef28881d2467e0800000000000000
+      internalID: -1773242769889824978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_63
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 883
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7d0642b4b3d2fe0800000000000000
+      internalID: -1212247530773882930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_64
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 27
+        width: 864
+        height: 897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a562dabd619dd160800000000000000
+      internalID: 7051952492003878312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_65
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 751
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c66036876dce9c80800000000000000
+      internalID: -8313982017562712381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_66
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 691
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e400fe573e8da68c0800000000000000
+      internalID: -4005150447144861618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_67
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 619
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e4c821d5df73a20800000000000000
+      internalID: 3042178649497030164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_68
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 591
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f494f2fbbd3b740800000000000000
+      internalID: 5166714811702660956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_69
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 357
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffff2cfeafd83d780800000000000000
+      internalID: -8659421549599457281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_70
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 199
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347743b47cd8d4940800000000000000
+      internalID: 5282033825075197763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_71
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 179
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d41fea1f9e18e30800000000000000
+      internalID: 4504138326578646306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_72
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0064294a79bf54d0800000000000000
+      internalID: -3143590080017047537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_73
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 171
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02891827e89ce7f0800000000000000
+      internalID: -581922133260008949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unagi_Weapon_M_74
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 16
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430865f9e406445d0800000000000000
+      internalID: -3079230354417614796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Unagi_Weapon_M_0: -7429757835730640828
+      Unagi_Weapon_M_1: 8863155547292320257
+      Unagi_Weapon_M_10: 5363336197607061986
+      Unagi_Weapon_M_11: -4937965727933831364
+      Unagi_Weapon_M_12: 4668126689382568319
+      Unagi_Weapon_M_13: 523053165339405632
+      Unagi_Weapon_M_14: 2930727816243457049
+      Unagi_Weapon_M_15: 4004805594656152659
+      Unagi_Weapon_M_16: -2556026236157738512
+      Unagi_Weapon_M_17: 1761584175039111305
+      Unagi_Weapon_M_18: 892807808061400577
+      Unagi_Weapon_M_19: 1878258348815489957
+      Unagi_Weapon_M_2: -7397985512114237660
+      Unagi_Weapon_M_20: 2520670438281624382
+      Unagi_Weapon_M_21: -4066978148217401997
+      Unagi_Weapon_M_22: 736649503055071153
+      Unagi_Weapon_M_23: -706141543346223821
+      Unagi_Weapon_M_24: 4098028845813401643
+      Unagi_Weapon_M_25: 1423596958025558933
+      Unagi_Weapon_M_26: 8499435288781946303
+      Unagi_Weapon_M_27: -9166506927981435396
+      Unagi_Weapon_M_28: -2855247442394369655
+      Unagi_Weapon_M_29: 4956434332747807861
+      Unagi_Weapon_M_3: 3914088395798468565
+      Unagi_Weapon_M_30: -619469638696441469
+      Unagi_Weapon_M_31: -3038127315350436661
+      Unagi_Weapon_M_32: 7674847908195981337
+      Unagi_Weapon_M_33: 1853553240363270437
+      Unagi_Weapon_M_34: -4198977946266255787
+      Unagi_Weapon_M_35: -1359785113087694127
+      Unagi_Weapon_M_36: 6286210576767393093
+      Unagi_Weapon_M_37: 233482120455390714
+      Unagi_Weapon_M_38: -1478948433985352439
+      Unagi_Weapon_M_39: 2981649409519967317
+      Unagi_Weapon_M_4: -7769040774112711708
+      Unagi_Weapon_M_40: -1643411460371823857
+      Unagi_Weapon_M_41: 7368133907941803924
+      Unagi_Weapon_M_42: 1840673528273653620
+      Unagi_Weapon_M_43: -4001291640741984906
+      Unagi_Weapon_M_44: -7094331409091970675
+      Unagi_Weapon_M_45: -8470522154897041235
+      Unagi_Weapon_M_46: 4444185895086406467
+      Unagi_Weapon_M_47: 5851615016564542952
+      Unagi_Weapon_M_48: 5765964227049250410
+      Unagi_Weapon_M_49: 1903395364067911590
+      Unagi_Weapon_M_5: -484525614889039110
+      Unagi_Weapon_M_50: 2064232788772952564
+      Unagi_Weapon_M_51: 3790869275514308483
+      Unagi_Weapon_M_52: 2195591022339911649
+      Unagi_Weapon_M_53: 7569160930478087184
+      Unagi_Weapon_M_54: 8395517601299752721
+      Unagi_Weapon_M_55: -7690193061037011904
+      Unagi_Weapon_M_56: 7239123814527820834
+      Unagi_Weapon_M_57: -5821411835539209955
+      Unagi_Weapon_M_58: -2689551298044834396
+      Unagi_Weapon_M_59: -6707944602108173206
+      Unagi_Weapon_M_6: -3415698739970216774
+      Unagi_Weapon_M_60: 8020735603077843078
+      Unagi_Weapon_M_61: -7563166836844650279
+      Unagi_Weapon_M_62: -1773242769889824978
+      Unagi_Weapon_M_63: -1212247530773882930
+      Unagi_Weapon_M_64: 7051952492003878312
+      Unagi_Weapon_M_65: -8313982017562712381
+      Unagi_Weapon_M_66: -4005150447144861618
+      Unagi_Weapon_M_67: 3042178649497030164
+      Unagi_Weapon_M_68: 5166714811702660956
+      Unagi_Weapon_M_69: -8659421549599457281
+      Unagi_Weapon_M_7: 4574898666231041439
+      Unagi_Weapon_M_70: 5282033825075197763
+      Unagi_Weapon_M_71: 4504138326578646306
+      Unagi_Weapon_M_72: -3143590080017047537
+      Unagi_Weapon_M_73: -581922133260008949
+      Unagi_Weapon_M_74: -3079230354417614796
+      Unagi_Weapon_M_8: 1592205958584756805
+      Unagi_Weapon_M_9: 8201452398063693562
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
