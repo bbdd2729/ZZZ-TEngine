@@ -42,7 +42,7 @@ MonoBehaviour:
     x: 0
     y: 245.71428
     width: 805.7143
-    height: 430.85718
+    height: 430.85712
   m_MinSize: {x: 101, y: 126}
   m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 23}
@@ -77,7 +77,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 805.7143
-    height: 676.5715
+    height: 676.5714
   m_MinSize: {x: 100, y: 112}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
@@ -104,7 +104,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1462.8572
-    height: 732.5715
+    height: 732.5714
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
@@ -154,7 +154,7 @@ MonoBehaviour:
     x: 0
     y: 36
     width: 1462.8572
-    height: 676.5715
+    height: 676.5714
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
@@ -176,7 +176,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 712.5715
+    y: 712.5714
     width: 1462.8572
     height: 20
   m_MinSize: {x: 0, y: 0}
@@ -229,7 +229,7 @@ MonoBehaviour:
     x: 805.7143
     y: 0
     width: 349.7143
-    height: 676.5715
+    height: 676.5714
   m_MinSize: {x: 100, y: 112}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
@@ -253,9 +253,9 @@ MonoBehaviour:
     x: 1155.4286
     y: 0
     width: 307.4286
-    height: 676.5715
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+    height: 676.5714
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 28}
   m_Panes:
   - {fileID: 28}
@@ -283,8 +283,8 @@ MonoBehaviour:
     y: 0
     width: 349.7143
     height: 275.42856
-  m_MinSize: {x: 50, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 52, y: 76}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -308,7 +308,7 @@ MonoBehaviour:
     x: 0
     y: 275.42856
     width: 349.7143
-    height: 401.1429
+    height: 401.14285
   m_MinSize: {x: 232, y: 276}
   m_MaxSize: {x: 10002, y: 10026}
   m_ActualView: {fileID: 17}
@@ -79813,8 +79813,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 805.7143
-    y: 78.28572
+    x: 1
+    y: 24
     width: 347.7143
     height: 249.42856
   m_SerializedDataModeController:
@@ -79986,10 +79986,10 @@ MonoBehaviour:
     m_TextWithWhitespace: "\u9879\u76EE\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 805.7143
-    y: 353.7143
+    x: 1
+    y: 299.42856
     width: 347.7143
-    height: 375.1429
+    height: 375.14285
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -80014,7 +80014,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/AssetRaw/Avatar/Anbi/PNG
+    - Assets/AssetRaw/Avatar/Anbi
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -80037,20 +80037,21 @@ MonoBehaviour:
       m_Data: 72316
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 52506
-    - m_Data: 55172
-    - m_Data: 55174
-    - m_Data: 55176
-    - m_Data: 55178
-    - m_Data: 55180
-    - m_Data: 55182
-    - m_Data: 55184
-    - m_Data: 55186
-    - m_Data: 55188
-    - m_Data: 55190
-    - m_Data: 55192
-    - m_Data: 55194
-    - m_Data: 55196
+    - m_Data: 52230
+    - m_Data: 64884
+    - m_Data: 64886
+    - m_Data: 64888
+    - m_Data: 64890
+    - m_Data: 64892
+    - m_Data: 64894
+    - m_Data: 64896
+    - m_Data: 64898
+    - m_Data: 64900
+    - m_Data: 64902
+    - m_Data: 64904
+    - m_Data: 64906
+    - m_Data: 64908
+    - m_Data: 64910
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -80083,21 +80084,21 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 52506
-    - m_Data: 55172
-    - m_Data: 55174
-    - m_Data: 55176
-    - m_Data: 55178
-    - m_Data: 55180
-    - m_Data: 55182
-    - m_Data: 55186
-    - m_Data: 55188
-    - m_Data: 55190
-    - m_Data: 55192
-    - m_Data: 55194
-    - m_Data: 55196
-    - m_Data: 60144
-    - m_Data: 60682
+    - m_Data: 52230
+    - m_Data: 64884
+    - m_Data: 64886
+    - m_Data: 64888
+    - m_Data: 64890
+    - m_Data: 64892
+    - m_Data: 64894
+    - m_Data: 64896
+    - m_Data: 64898
+    - m_Data: 64900
+    - m_Data: 64902
+    - m_Data: 64904
+    - m_Data: 64906
+    - m_Data: 64908
+    - m_Data: 64910
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -80179,7 +80180,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 42.285717
+    y: 0
     width: 1462.8572
     height: 36
   m_SerializedDataModeController:
@@ -80708,9 +80709,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 324
+    y: 269.7143
     width: 804.7143
-    height: 404.85718
+    height: 404.85712
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -81909,10 +81910,10 @@ MonoBehaviour:
     m_TextWithWhitespace: "\u68C0\u67E5\u5668\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1155.4286
-    y: 78.28572
+    x: 1156.4286
+    y: 24
     width: 306.4286
-    height: 650.5715
+    height: 650.5714
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -82035,7 +82036,7 @@ MonoBehaviour:
       height: 617.1429
     m_MinimalGUI: 1
   m_defaultScale: 0.54513884
-  m_LastWindowPixelSize: {x: 1408.25, y: 625.5}
+  m_LastWindowPixelSize: {x: 804.7143, y: 357.42856}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -82064,7 +82065,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 78.28572
+    y: 24
     width: 804.7143
     height: 219.71428
   m_SerializedDataModeController:
@@ -82771,7 +82772,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.07569459, y: -0.29708147, z: 0.023632908, w: -0.95155233}
     speed: 2
-    m_Value: {x: -0.07569469, y: -0.29708186, z: 0.02363294, w: -0.9515536}
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
     m_Target: 0.11344434
     speed: 2
@@ -82779,7 +82780,7 @@ MonoBehaviour:
   m_Ortho:
     m_Target: 0
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_CameraSettings:
     m_Speed: 0.9
     m_SpeedNormalized: 0.08908909
