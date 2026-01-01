@@ -35,10 +35,17 @@ public partial class GameApp
     
     private static void StartGameLogic()
     {
-        // GameEvent.Get<ILoginUI>().ShowLoginUI();
+        //GameEvent.Get<ILoginUI>().ShowLoginUI();
         //GameModule.UI.ShowUIAsync<BattleMainUI>();
         
-        GameModule.Procedure.RestartProcedure();
+        ProcedureBase[] procedures =
+        {
+            new GameStart(),
+            new InitAvatar(),
+        };
+        ModuleSystem.RegisterModule<IPlayerModel>(new PlayerModel());
+        ModuleSystem.GetModule<IPlayerModel>().OnInit();
+        GameModule.Procedure.RestartProcedure(procedures);
     }
     
     private static void Release()

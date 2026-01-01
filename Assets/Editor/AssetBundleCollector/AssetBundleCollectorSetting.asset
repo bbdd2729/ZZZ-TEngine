@@ -21,17 +21,49 @@ MonoBehaviour:
     EnableAddressable: 1
     SupportExtensionless: 1
     LocationToLower: 0
-    IncludeAssetGUID: 0
+    IncludeAssetGUID: 1
     AutoCollectShaders: 1
     IgnoreRuleName: NormalIgnoreRule
     Groups:
-    - GroupName: Actor
+    - GroupName: Avatar
       GroupDesc: 
       AssetTags: 
       ActiveRuleName: EnableGroup
       Collectors:
-      - CollectPath: Assets/AssetRaw/Actor
-        CollectorGUID: 9c67ce0c9edfd4e4aa1006ee39846d66
+      - CollectPath: Assets/AssetRaw/Avatar/Avatar_Female_Size02_Anbi
+        CollectorGUID: 19fba93c7f2188b4cb34e2560c1bca52
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/AssetRaw/Avatar/bili
+        CollectorGUID: 6e019cf15f7487e4486c71d8f6eca425
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/AssetRaw/Avatar/Kelin
+        CollectorGUID: f92db199e70714649bf02bcb8a8bb970
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/AssetRaw/Avatar/Nike
+        CollectorGUID: 3af82303f11d2e940859ceec0ac68639
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/AssetRaw/Avatar/Unagi
+        CollectorGUID: 94a89b6daa8586a4a932feeced6d5d35
         CollectorType: 0
         AddressRuleName: AddressByFileName
         PackRuleName: PackDirectory

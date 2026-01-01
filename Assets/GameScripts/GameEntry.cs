@@ -9,6 +9,7 @@ public class GameEntry : MonoBehaviour
         ModuleSystem.GetModule<IResourceModule>();
         ModuleSystem.GetModule<IDebuggerModule>();
         ModuleSystem.GetModule<IFsmModule>();
+        //ModuleSystem.GetModule<IPlayerModel>();
         Settings.ProcedureSetting.StartProcedure().Forget();
         DontDestroyOnLoad(this);
     }
