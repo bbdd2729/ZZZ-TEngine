@@ -12,4 +12,9 @@ public class GameEntry : MonoBehaviour
         Settings.ProcedureSetting.StartProcedure().Forget();
         DontDestroyOnLoad(this);
     }
+    
+    void Start()
+    {
+        
+    }
 }

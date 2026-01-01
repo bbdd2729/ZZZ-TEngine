@@ -15,5 +15,7 @@ MonoBehaviour:
   _items:
   - name: main
     path: Assets/Scenes/main.unity
+  - name: 0
+    path: Assets/_Recovery/0.unity
   - name: New Scene
     path: Assets/Scenes/New Scene.unity

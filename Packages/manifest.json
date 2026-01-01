@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.code-philosophy.hybridclr": "https://gitee.com/focus-creative-games/hybridclr_unity.git",
-    "com.meliverse.hoyotoon": "https://github.com/Hoyotoon/HoyoToon.git",
+    "com.jasonma.lwgui": "https://github.com/JasonMa0012/LWGUI.git",
     "com.unity.ai.navigation": "2.0.9",
     "com.unity.feature.characters-animation": "1.0.0",
     "com.unity.feature.worldbuilding": "1.0.1",
